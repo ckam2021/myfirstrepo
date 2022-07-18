@@ -1,0 +1,35 @@
+div {color:rgba(19, 18, 18, 0.856);
+
+}
+
+#div1 {color: orangered;
+
+}
+#div2 {color: blue;
+    
+}
+
+#unorder-list {
+  color:rgb(22, 111, 16);
+  font-size: 2rem;
+}
+
+#order-list {
+  color:blueviolet;
+}
+
+.large-font {
+    font-size: 2rem;
+}
+
+.deep-background {
+    background-color: black;
+}
+
+.version {
+    background-color: darkgreen;
+    color: white;
+    padding: 2px 10px;
+    display:inline-block;
+    border-radius: 10px;
+}
